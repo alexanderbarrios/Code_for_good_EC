@@ -1,4 +1,4 @@
-# Code for Good elliptic curves with a specified torsion subgroup
+# Code for _Good elliptic curves with a specified torsion subgroup_
 
 This repository contains the code that verifies some of the results of the paper _Good elliptic curves with a specified torsion subgroup_ by Alexander Barrios. The codes are written by the author as well.
 
