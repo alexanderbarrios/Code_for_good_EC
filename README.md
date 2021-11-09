@@ -16,7 +16,7 @@ This code was written on Mathematica and SageMath, and the repository consists o
 
 (6) Verification_of_Lemmas.pdf
 
-(7) Qualities_and_MSRs
+(7) Qualities_and_MSRs.ipynb
 
 File (1) contains the definitions that are called by (2), (3), (4), and (7).
 
