@@ -26,6 +26,6 @@ File (3) verifies Lemma 3.2.
 
 File (4) verifies Lemma 4.1.
 
-File (5) and (6) verifies Lemmas 4.2, 4.3, 6.1 and Corollary 4.10. We note that (6) is a pdf of the mathematica notebook (5).
+File (5) and (6) verifies Lemmas 4.2, 4.3, 6.1, and Corollary 4.10. We note that (6) is a pdf of the mathematica notebook (5).
 
 File (7) verifies the approximations given in tables (4.2), (4.3), (4.5), as well as the table before the statement of Lemma 5.2.
